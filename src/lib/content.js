@@ -9,6 +9,7 @@ export const defaults = {
     { id: 's3', icon: 'layers-outline', title: 'Custom software', text: 'Dashboards, SaaS platforms and internal tools shaped around your workflow.' },
     { id: 's4', icon: 'color-palette-outline', title: 'UI/UX design', text: 'Clean interfaces and design systems your users find easy to use.' },
     { id: 's5', icon: 'cloud-outline', title: 'Cloud and APIs', text: 'Secure backends, integrations and deployment you can scale.' },
+    { id: 's6', icon: 'setting-ouline', title: 'SEO', text: 'SEO , integrations and deployment you can apppers on search Engine top.' },
   ],
   projects: [
     { id: 'p1', title: 'School management platform', tag: 'SaaS', stack: ['React', 'Supabase'], text: 'Multi-tenant platform for attendance, fees and results.' },
